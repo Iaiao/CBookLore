@@ -1,0 +1,8 @@
+name: CBookLore
+author: Iaiao
+version: 1.0.0
+api-version: 1.13
+description: Display information about the book author in lore
+main: mc.iaiao.booklore.Main
+depend:
+  - PlaceholderAPI
